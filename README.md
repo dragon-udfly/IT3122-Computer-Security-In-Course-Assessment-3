@@ -1,6 +1,7 @@
 # Computer Security Assessment Repository 🔒🛡️
 - Course: IT3122 Computer Security
 - Related: In-Course Assessment - 3
+  <br>
 A comprehensive academic assessment project (`IT3122 - Computer Security`) demonstrating common web vulnerabilities (SQL Injection, Cross-Site Scripting, and CSRF) alongside their secure counterparts and mitigation strategies.
 
 ---
